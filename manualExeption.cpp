@@ -9,7 +9,7 @@ int main(){
     }
     catch (int a){
         //blok ini akan di eksekusi
-        
+        cout << "pengecualian akan di eksekusi" << endl;
     }
     catch (...) {
         /*jika selain integer maka blok ini akan di eksekusi*/
