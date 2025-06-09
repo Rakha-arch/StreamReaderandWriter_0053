@@ -1,0 +1,1 @@
+ "c:\Users\Aspire lite 14\Documents\semester 2\pemograman dasar & algoritma\pertemuan 13\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
