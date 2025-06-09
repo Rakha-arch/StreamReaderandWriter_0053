@@ -27,6 +27,7 @@ int main(){
     outfile.close();
 
     //operasi file dalam mode membaca
+    ifstream infile;
     //menunjuk ke sebuah file untuk membuka
     
     // jika file ada maka
